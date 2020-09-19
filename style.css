@@ -1,0 +1,35 @@
+body {
+    background-color: burlywood;
+    color: #282425;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    line-height: 1,5;
+    text-align: justify;
+}
+
+h1,
+h2 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: white;
+    
+}
+
+.foto-omne {
+    width: 200px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.hlavička {
+     background-image: url(foto\ Vlci\ hora.JPG);
+     background-position: center;
+     background-repeat: no-repeat;
+     padding-bottom: 200px;
+
+
+}
+
+
