@@ -1,3 +1,4 @@
+<<<<<<< Updated upstream
 body {
     background-color: burlywood;
     color: #282425;
@@ -33,3 +34,79 @@ h2 {
 }
 
 
+=======
+body {
+    color: #282425;
+    background-color: rgb(247, 238, 189);
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    line-height: 1.5;
+    text-align: justify;
+    margin: auto;
+    max-width: 80rem;
+}
+
+h1,
+h2 {
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    color: white;
+    
+}
+
+.foto-omne {
+    width: 200px;
+    border-radius: 60%;
+    float: left;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-bottom: 2rem;
+}
+
+main {
+    background-color: burlywood;
+    padding-right: 2rem;
+    border-top: 2px solid rgb(118, 231, 73);
+    border-bottom: 2px solid rgb(199, 135, 38);
+    display: flow-root;
+}
+
+
+.hlavička {
+     background-image: url(foto\ Vlci\ hora.JPG);
+     background-position: center;
+     background-repeat: no-repeat;
+     min-height: 270px;
+     padding: 2rem 3rem;
+
+}
+
+nav li{
+    display: inline;
+}
+
+nav ul {
+    text-align: center;
+}
+
+
+
+a {
+    color: white;
+    background-color: rgb(15, 180, 51);
+    border: 2px solid rgb(7, 160, 66);
+    border-radius: 50px;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    
+}
+
+a:hover {
+    background-color: rgb(121, 67, 76);
+}
+
+.paticka {
+    color: grey;
+
+}
+>>>>>>> Stashed changes
