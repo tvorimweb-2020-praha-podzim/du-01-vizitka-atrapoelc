@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 body {
     background-color: rgb(247, 238, 189);
     font-family: 'Dosis', sans-serif;
@@ -38,45 +37,4 @@ nav ul {
     text-align: center;
 }
 
-=======
-body {
-    background-color: rgb(247, 238, 189);
-    font-family: 'Dosis', sans-serif;
-    font-size: 20px;
-    line-height: 1.5;
-    text-align: center;
-    margin: auto;
-    max-width: 80rem
-}
-section {
-    background-color: burlywood;
-}
-
-h3 {
-    font-family: 'Dancing Script', cursive;
-    color: rgb(58, 51, 51);
-    font-size: 3rem;
-    
-}
-
-nav a {
-    color: white;
-    background-color: rgb(15, 180, 51);
-    border-radius: 50px;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-}
-
-a:hover {
-    background-color: rgb(121, 67, 76);
-
-nav li{
-    display: inline;
-}
-
-nav ul {
-    text-align: center;
-}
-
->>>>>>> 88e093ff542f70b4a9d8c3921028e691cb1cf2f9
 /* nevím jak udělat podbarvení jen u tlačítka Zpět a ne u dalších a atributů*/
